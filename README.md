@@ -2,3 +2,4 @@
 
 ![arquitetura_web02](https://github.com/GarciaGGOO/Arquitetura-Web/assets/111614180/23a7e7f8-efb1-4bdf-9b84-92a27f1db968)
 
+![arquitetura_web03](https://github.com/GarciaGGOO/Arquitetura-Web/assets/111614180/6513d2e8-117c-4260-9856-151e6ebe1079)
