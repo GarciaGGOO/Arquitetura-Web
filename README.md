@@ -4,6 +4,6 @@
 
 ![arquitetura_web_aula4_03](https://github.com/GarciaGGOO/Arquitetura-Web/assets/111614180/405212d5-d869-453c-98c9-f00802b26615)
 
-![arquitetura_web04](https://github.com/GarciaGGOO/Arquitetura-Web/assets/111614180/d32c94d6-80ad-4992-856d-60b9c6851022)
+![arquitetura_web_aula4_04](https://github.com/GarciaGGOO/Arquitetura-Web/assets/111614180/1e3d1668-3a67-4e5d-904f-6c87b12e518d)
 
-![arquitetura_web05](https://github.com/GarciaGGOO/Arquitetura-Web/assets/111614180/b189fa86-3d39-4f02-abff-fd6f7415e144)
+![arquitetura_web_aula4_05](https://github.com/GarciaGGOO/Arquitetura-Web/assets/111614180/6437173b-96c7-49b3-b1c4-0b8a498b64b4)
